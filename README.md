@@ -1,7 +1,1 @@
-# Umuzi Private Repo
-
-Place to keep track of some of the assignemnts given by Umuzi
-
-## Natural language processing (237)
-
-For raw project instructions see: http://syllabus.africacode.net/projects/data-science-specific/natural-language-processing/
+Using the contents of the State of the Nation Address (SONA) for every year, dating back to 2000, as available on the [South African Government website](https://www.gov.za/state-nation-address), we attempt to look at the priorities and challenges we as a country have faced over time, as well as the focus points for the various presidents over this time.
